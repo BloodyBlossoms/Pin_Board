@@ -7,7 +7,7 @@ from discord.ext import commands
 
 # Author: hyppytyynytyydytys#1010
 # Created: 26 MAY 2020
-# Last updated: 17 JULY 2022
+# Last updated: 20221212 GND PKD
 # About: This is a version of Passel Bot that should ONLY be used as a private server bot.
 #        Follow the instructions here on how to set up with heroku:
 #
